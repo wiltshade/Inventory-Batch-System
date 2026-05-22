@@ -1,0 +1,13 @@
+2026-05-22 19:58:32 | SYSTEM | Storage initialized
+2026-05-22 20:01:30 | READ | Viewed records.
+2026-05-22 20:04:15 | SYSTEM | Storage initialized
+2026-05-22 20:05:00 | SYSTEM | Storage initialized.
+2026-05-22 20:06:17 | ADD | Registration ID 1 added.
+2026-05-22 20:06:21 | READ | Viewed registrations.
+2026-05-22 20:06:34 | READ | Viewed registrations.
+2026-05-22 20:07:42 | UPDATE | Registration ID 1 updated.
+2026-05-22 20:07:45 | READ | Viewed registrations.
+2026-05-22 20:08:07 | READ | Searched registrations.
+2026-05-22 20:08:21 | DELETE | Hard delete ID 1
+2026-05-22 20:08:24 | READ | Viewed registrations.
+2026-05-22 20:08:30 | REPORT | Generated event report.
